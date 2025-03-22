@@ -13,7 +13,4 @@ Minimal and clean UI
 
 Smooth navigation
 
-📂 Setup & Installation
-Clone the repository: git clone https://github.com/your-username/your-portfolio.git
-Open the index.html file in your browser.
-
+ 
